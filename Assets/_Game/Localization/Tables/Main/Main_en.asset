@@ -1,0 +1,75 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: Main_en
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: en
+  m_SharedData: {fileID: 11400000, guid: 0a5b566aebd16294c83ad17971943a09, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 20085886976
+    m_Localized: 'Target:'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 229675257856
+    m_Localized: 'Reward:'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 460689133568
+    m_Localized: Move Back
+    m_Metadata:
+      m_Items: []
+  - m_Id: 744836452352
+    m_Localized: Game Over
+    m_Metadata:
+      m_Items: []
+  - m_Id: 958917922816
+    m_Localized: Restart
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1203043192832
+    m_Localized: Goal Achieved
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1398015414272
+    m_Localized: Accept
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1581675597824
+    m_Localized: Close
+    m_Metadata:
+      m_Items: []
+  - m_Id: 973879685566464
+    m_Localized: Displaying Ads...
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1036557674237952
+    m_Localized: Continue
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2739903644717056
+    m_Localized: Loading...
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4197215861362688
+    m_Localized: Score
+    m_Metadata:
+      m_Items: []
+  - m_Id: 4311721845346304
+    m_Localized: 'Score:'
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

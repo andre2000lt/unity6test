@@ -1,0 +1,1849 @@
+fileFormatVersion: 2
+guid: 3e0d06e4056dc7d45beacfbdf4a95caa
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5052881114040169208
+    second: I100_0
+  - first:
+      213: 1474456564758838008
+    second: I100_1
+  - first:
+      213: 7057688330643534533
+    second: I100_2
+  - first:
+      213: 8773510216985470105
+    second: I100_3
+  - first:
+      213: 3929154110294553677
+    second: I100_4
+  - first:
+      213: 3813628260806339016
+    second: I100_5
+  - first:
+      213: -301223779933785301
+    second: I100_6
+  - first:
+      213: -8163072378740480760
+    second: I100_7
+  - first:
+      213: -6132115891595969697
+    second: I100_8
+  - first:
+      213: 5623827160905172340
+    second: I100_9
+  - first:
+      213: 3587233451794153778
+    second: I100_10
+  - first:
+      213: -6413457299168215003
+    second: I100_11
+  - first:
+      213: 8557336666216452658
+    second: I100_12
+  - first:
+      213: 592673645757467852
+    second: I100_13
+  - first:
+      213: 28397848770012805
+    second: I100_14
+  - first:
+      213: -5457823240315797342
+    second: I100_15
+  - first:
+      213: 6948523960301462804
+    second: I100_16
+  - first:
+      213: -902193297552357623
+    second: I100_17
+  - first:
+      213: -8414346270064895410
+    second: I100_18
+  - first:
+      213: -8944481374863745843
+    second: I100_19
+  - first:
+      213: 321947876907430716
+    second: I100_20
+  - first:
+      213: -3255198778482541189
+    second: Diamond100_21
+  - first:
+      213: -1542043335545478745
+    second: Diamond100_22
+  - first:
+      213: -4879272528246641493
+    second: Diamond100_23
+  - first:
+      213: -4054765634843177218
+    second: Diamond100_24
+  - first:
+      213: 5235503618846106518
+    second: Diamond100_25
+  - first:
+      213: 6664643183020180984
+    second: Diamond100_26
+  - first:
+      213: -6874524054406414162
+    second: Diamond100_27
+  - first:
+      213: -4849568594928574353
+    second: Diamond100_28
+  - first:
+      213: 2858325060206586645
+    second: I100_29
+  - first:
+      213: 6629252072874607121
+    second: I100_30
+  - first:
+      213: -3546677433634612509
+    second: I100_31
+  - first:
+      213: 8536017456605441287
+    second: I100_32
+  - first:
+      213: -2629927050071174728
+    second: I100_33
+  - first:
+      213: -5118931591839923164
+    second: I100_34
+  - first:
+      213: 3244042988816325909
+    second: I100_35
+  - first:
+      213: 9213504365205598739
+    second: I100_36
+  - first:
+      213: 699626536190578457
+    second: Star100_37
+  - first:
+      213: 3516224236470032175
+    second: Star100_38
+  - first:
+      213: 5086604730753617926
+    second: Heart100_39
+  - first:
+      213: 1936537826757176897
+    second: Heart100_40
+  - first:
+      213: -3509869165443743682
+    second: I100_41
+  - first:
+      213: 5766600716347427252
+    second: I100_42
+  - first:
+      213: 1075499858793182586
+    second: Sword100_43
+  - first:
+      213: 5023346321243886796
+    second: Sword100_44
+  - first:
+      213: 3906606112755026781
+    second: Award100_45
+  - first:
+      213: 942543367682500661
+    second: I100_46
+  - first:
+      213: -596301017112020434
+    second: I100_47
+  - first:
+      213: -7229196563808846192
+    second: I100_48
+  - first:
+      213: 665720492940367118
+    second: I100_49
+  - first:
+      213: -8506338903761202995
+    second: I100_50
+  - first:
+      213: -5827937918190442164
+    second: I100_51
+  - first:
+      213: 7079211270672344851
+    second: I100_52
+  - first:
+      213: -6109927964543244958
+    second: I100_53
+  - first:
+      213: 9204342861591590299
+    second: I100_54
+  - first:
+      213: 5434182962407334389
+    second: I100_55
+  - first:
+      213: 1158304847700316970
+    second: I100_56
+  - first:
+      213: -952601564477981040
+    second: I100_57
+  - first:
+      213: 627081086795296897
+    second: I100_58
+  - first:
+      213: -5430485126742527047
+    second: I100_59
+  - first:
+      213: 7442616957700549918
+    second: Balloon100_60
+  - first:
+      213: 6107481192391478825
+    second: I100_61
+  - first:
+      213: -4500817096480045654
+    second: I100_62
+  - first:
+      213: -63974112266428423
+    second: I100_63
+  - first:
+      213: 2688587426359859331
+    second: I100_64
+  - first:
+      213: 3962756262038126007
+    second: I100_65
+  - first:
+      213: 3097856170497318397
+    second: I100_66
+  - first:
+      213: 66242417399619985
+    second: I100_67
+  - first:
+      213: 5699769179451488271
+    second: Ad100_68
+  - first:
+      213: 6362965868935460852
+    second: I100_69
+  - first:
+      213: -9192671074825750611
+    second: Icon100_0
+  - first:
+      213: -5622415411052937188
+    second: Icon100_1
+  - first:
+      213: -6988541675448691864
+    second: Icon100_2
+  - first:
+      213: -8408313925502231123
+    second: Icon100_3
+  - first:
+      213: 3277163100531332372
+    second: Icon100_4
+  - first:
+      213: -8159315107056960482
+    second: Icon100_5
+  - first:
+      213: 6433556660657639722
+    second: Icon100_6
+  - first:
+      213: 5585376855800802323
+    second: Icon100_7
+  - first:
+      213: 3118420159431537055
+    second: Icon100_8
+  - first:
+      213: -1023499656750169054
+    second: Icon100_9
+  - first:
+      213: 2748057652689121731
+    second: Icon100_10
+  - first:
+      213: -7480423497199844829
+    second: Icon100_11
+  - first:
+      213: -7831536065309158092
+    second: Icon100_12
+  - first:
+      213: -3269578556660596545
+    second: Icon100_13
+  - first:
+      213: 7909566339621983798
+    second: Icon100_14
+  - first:
+      213: 5480738041912629182
+    second: Icon100_15
+  - first:
+      213: -8951955461582105366
+    second: Icon100_16
+  - first:
+      213: -8830785949019666963
+    second: Icon100_17
+  - first:
+      213: 7822406170219640465
+    second: Icon100_18
+  - first:
+      213: 8370552961671865809
+    second: Icon100_19
+  - first:
+      213: 7668679343001162583
+    second: Icon100_20
+  - first:
+      213: -976471791295277702
+    second: Icon100_21
+  - first:
+      213: -6473586732859291019
+    second: Icon100_22
+  - first:
+      213: -3037267709158506345
+    second: Icon100_23
+  - first:
+      213: -8513599749831589840
+    second: Icon100_24
+  - first:
+      213: -1275090035060045360
+    second: Icon100_25
+  - first:
+      213: 5802546720360595519
+    second: Icon100_26
+  - first:
+      213: 1697319066566183636
+    second: Icon100_27
+  - first:
+      213: 8577070412205919857
+    second: Icon100_28
+  - first:
+      213: 8500371132931727258
+    second: Icon100_29
+  - first:
+      213: 8684224407988641944
+    second: Icon100_30
+  - first:
+      213: 8786678316324117166
+    second: Icon100_31
+  - first:
+      213: 4123070726829015762
+    second: Icon100_32
+  - first:
+      213: 8946573046810243013
+    second: Icon100_33
+  - first:
+      213: 3175493154331681614
+    second: Icon100_34
+  - first:
+      213: 4006702179819651402
+    second: Icon100_35
+  - first:
+      213: 3307605430952148503
+    second: Icon100_36
+  - first:
+      213: -1755015631815939641
+    second: Icon100_37
+  - first:
+      213: -4059258750739265650
+    second: Icon100_38
+  - first:
+      213: 5730080360690959496
+    second: Icon100_39
+  - first:
+      213: 5297549462913740009
+    second: Icon100_40
+  - first:
+      213: 3029745157562991095
+    second: Icon100_41
+  - first:
+      213: -1662048165695055922
+    second: Icon100_42
+  - first:
+      213: 7422914789853004693
+    second: Icon100_43
+  - first:
+      213: -474655645409602966
+    second: Icon100_44
+  - first:
+      213: -8135451595888851344
+    second: Icon100_45
+  - first:
+      213: 1720500939425610090
+    second: Icon100_46
+  - first:
+      213: -7484239304330062303
+    second: Icon100_47
+  - first:
+      213: 7153129627537784731
+    second: Icon100_48
+  - first:
+      213: 2728047083664047405
+    second: Icon100_49
+  - first:
+      213: -3522164366246347588
+    second: Icon100_50
+  - first:
+      213: -7466372403309396658
+    second: Icon100_51
+  - first:
+      213: 1876707595384506839
+    second: Icon100_52
+  - first:
+      213: -6670876538906915522
+    second: Icon100_53
+  - first:
+      213: 4396219156812881612
+    second: Icon100_54
+  - first:
+      213: -5317611789682075000
+    second: Icon100_55
+  - first:
+      213: -8656916514135582312
+    second: Icon100_56
+  - first:
+      213: -2769369954500060545
+    second: Icon100_57
+  - first:
+      213: -2953262159289386824
+    second: Icon100_58
+  - first:
+      213: 9094257715445688660
+    second: Icon100_59
+  - first:
+      213: 705926484463588234
+    second: Icon100_60
+  - first:
+      213: -8942400190801871466
+    second: Icon100_61
+  - first:
+      213: -4270240839326030632
+    second: Icon100_62
+  - first:
+      213: 1159324446208119546
+    second: Icon100_63
+  - first:
+      213: -5157852121012489117
+    second: Icon100_64
+  - first:
+      213: -5708401275562544749
+    second: Icon100_65
+  - first:
+      213: -5482257400425077939
+    second: Icon100_66
+  - first:
+      213: -8071485740813921298
+    second: Icon100_67
+  - first:
+      213: -4188591565089159628
+    second: Icon100_68
+  - first:
+      213: 6361255942214289151
+    second: Icon100_69
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Icon100_0
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 2384
+        width: 67
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da7b000cc521d6080800000000000000
+      internalID: -9192671074825750611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icon100_1
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 2356
+        width: 163
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c100284f8fa29f1b0800000000000000
+      internalID: -5622415411052937188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icon100_2
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 2397
+        width: 153
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8631ed08f56b30f90800000000000000
+      internalID: -6988541675448691864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icon100_3
+      rect:
+        serializedVersion: 2
+        x: 936
+        y: 2351
+        width: 167
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dad187ea80baf4b80800000000000000
+      internalID: -8408313925502231123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icon100_4
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 2114
+        width: 127
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 415103e0a72da7d20800000000000000
+      internalID: 3277163100531332372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icon100_5
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 2142
+        width: 114
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1c3469d32a44ce80800000000000000
+      internalID: -8159315107056960482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icon100_6
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 2143
+        width: 131
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a21d8d842b5984950800000000000000
+      internalID: 6433556660657639722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icon100_7
+      rect:
+        serializedVersion: 2
+        x: 946
+        y: 2129
+        width: 113
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31ce1b268ae338d40800000000000000
+      internalID: 5585376855800802323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icon100_8
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 1870
+        width: 81
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f917557ec9ad64b20800000000000000
+      internalID: 3118420159431537055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icon100_9
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 1869
+        width: 81
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2240ca32c7ccbc1f0800000000000000
+      internalID: -1023499656750169054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icon100_10
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 1871
+        width: 81
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c134d210ef032620800000000000000
+      internalID: 2748057652689121731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icon100_11
+      rect:
+        serializedVersion: 2
+        x: 702
+        y: 1873
+        width: 79
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3220be75672303890800000000000000
+      internalID: -7480423497199844829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icon100_12
+      rect:
+        serializedVersion: 2
+        x: 971
+        y: 1901
+        width: 74
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 435569d117bc05390800000000000000
+      internalID: -7831536065309158092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icon100_13
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 1649
+        width: 52
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb0c20d20af10a2d0800000000000000
+      internalID: -3269578556660596545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icon100_14
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 1648
+        width: 52
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6361e80edac64cd60800000000000000
+      internalID: 7909566339621983798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icon100_15
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 1648
+        width: 52
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb71c2ff53e7f0c40800000000000000
+      internalID: 5480738041912629182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icon100_16
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 1648
+        width: 52
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae4d74befe344c380800000000000000
+      internalID: -8951955461582105366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icon100_17
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 1648
+        width: 52
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de50c2587feb27580800000000000000
+      internalID: -8830785949019666963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icon100_18
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 1648
+        width: 52
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 196f3c887f4ce8c60800000000000000
+      internalID: 7822406170219640465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icon100_19
+      rect:
+        serializedVersion: 2
+        x: 849
+        y: 1648
+        width: 52
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d5ab0ec19d2a2470800000000000000
+      internalID: 8370552961671865809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icon100_20
+      rect:
+        serializedVersion: 2
+        x: 974
+        y: 1648
+        width: 52
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 753d5f76b3f9c6a60800000000000000
+      internalID: 7668679343001162583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icon100_21
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 1514
+        width: 80
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a75d7a25410e272f0800000000000000
+      internalID: -976471791295277702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icon100_22
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 1514
+        width: 80
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57a8d3d3a233926a0800000000000000
+      internalID: -6473586732859291019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icon100_23
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 1514
+        width: 80
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 790c7d35c1579d5d0800000000000000
+      internalID: -3037267709158506345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icon100_24
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 1514
+        width: 80
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0300f6f622e99d980800000000000000
+      internalID: -8513599749831589840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icon100_25
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 1514
+        width: 80
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d90b9b6e58fd4ee0800000000000000
+      internalID: -1275090035060045360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icon100_26
+      rect:
+        serializedVersion: 2
+        x: 712
+        y: 1514
+        width: 80
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3083bbbf79c68050800000000000000
+      internalID: 5802546720360595519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icon100_27
+      rect:
+        serializedVersion: 2
+        x: 838
+        y: 1514
+        width: 80
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4dacc21c2b61e8710800000000000000
+      internalID: 1697319066566183636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icon100_28
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 1514
+        width: 80
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17e0c0db810e70770800000000000000
+      internalID: 8577070412205919857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icon100_29
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 1354
+        width: 84
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9f516d228267f570800000000000000
+      internalID: 8500371132931727258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icon100_30
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 1354
+        width: 82
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 890a0fb8610948870800000000000000
+      internalID: 8684224407988641944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icon100_31
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 1354
+        width: 82
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eaa5028ff5d80f970800000000000000
+      internalID: 8786678316324117166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icon100_32
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 1354
+        width: 82
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d284782bf6183930800000000000000
+      internalID: 4123070726829015762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icon100_33
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 1354
+        width: 84
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cf653cf8cc982c70800000000000000
+      internalID: 8946573046810243013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icon100_34
+      rect:
+        serializedVersion: 2
+        x: 712
+        y: 1354
+        width: 84
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e43ef9a033e911c20800000000000000
+      internalID: 3175493154331681614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icon100_35
+      rect:
+        serializedVersion: 2
+        x: 834
+        y: 1354
+        width: 82
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a410fe4776aaa9730800000000000000
+      internalID: 4006702179819651402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icon100_36
+      rect:
+        serializedVersion: 2
+        x: 956
+        y: 1354
+        width: 82
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71e3e017d99f6ed20800000000000000
+      internalID: 3307605430952148503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icon100_37
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 1150
+        width: 97
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c96a52d49ee4a7e0800000000000000
+      internalID: -1755015631815939641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icon100_38
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 1150
+        width: 95
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e874ace4cad9aa7c0800000000000000
+      internalID: -4059258750739265650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icon100_39
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 1142
+        width: 95
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8844d619ab5558f40800000000000000
+      internalID: 5730080360690959496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icon100_40
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 1142
+        width: 94
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ece80d3b2da48940800000000000000
+      internalID: 5297549462913740009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icon100_41
+      rect:
+        serializedVersion: 2
+        x: 771
+        y: 1128
+        width: 135
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f180842b21db0a20800000000000000
+      internalID: 3029745157562991095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icon100_42
+      rect:
+        serializedVersion: 2
+        x: 1008
+        y: 1128
+        width: 136
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec7182ccff73fe8e0800000000000000
+      internalID: -1662048165695055922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icon100_43
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 843
+        width: 119
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5938e2f4cad730760800000000000000
+      internalID: 7422914789853004693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icon100_44
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 866
+        width: 145
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a621ab0943fa969f0800000000000000
+      internalID: -474655645409602966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icon100_45
+      rect:
+        serializedVersion: 2
+        x: 653
+        y: 857
+        width: 124
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07609a380e1191f80800000000000000
+      internalID: -8135451595888851344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icon100_46
+      rect:
+        serializedVersion: 2
+        x: 889
+        y: 867
+        width: 224
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6970322d7270e710800000000000000
+      internalID: 1720500939425610090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icon100_47
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 610
+        width: 53
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 126d3638104a22890800000000000000
+      internalID: -7484239304330062303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icon100_48
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 610
+        width: 54
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9f36b15f75054360800000000000000
+      internalID: 7153129627537784731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icon100_49
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 610
+        width: 52
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2df5586e58fbd520800000000000000
+      internalID: 2728047083664047405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icon100_50
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 610
+        width: 53
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbcf85d8b22ce1fc0800000000000000
+      internalID: -3522164366246347588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icon100_51
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 610
+        width: 53
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4db6f39bdd126890800000000000000
+      internalID: -7466372403309396658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icon100_52
+      rect:
+        serializedVersion: 2
+        x: 777
+        y: 610
+        width: 52
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d9cb226d976b0a10800000000000000
+      internalID: 1876707595384506839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icon100_53
+      rect:
+        serializedVersion: 2
+        x: 918
+        y: 610
+        width: 53
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3d47f5b1294c63a0800000000000000
+      internalID: -6670876538906915522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icon100_54
+      rect:
+        serializedVersion: 2
+        x: 1055
+        y: 610
+        width: 53
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cce599ce702820d30800000000000000
+      internalID: 4396219156812881612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icon100_55
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 243
+        width: 325
+        height: 299
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88a129e404c0436b0800000000000000
+      internalID: -5317611789682075000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icon100_58
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 347
+        width: 331
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b8f3f296b7e307d0800000000000000
+      internalID: -2953262159289386824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Icon100_68
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 63
+        width: 189
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 436c9a5e9222fd5c0800000000000000
+      internalID: -4188591565089159628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Icon100_0: -9192671074825750611
+      Icon100_1: -5622415411052937188
+      Icon100_10: 2748057652689121731
+      Icon100_11: -7480423497199844829
+      Icon100_12: -7831536065309158092
+      Icon100_13: -3269578556660596545
+      Icon100_14: 7909566339621983798
+      Icon100_15: 5480738041912629182
+      Icon100_16: -8951955461582105366
+      Icon100_17: -8830785949019666963
+      Icon100_18: 7822406170219640465
+      Icon100_19: 8370552961671865809
+      Icon100_2: -6988541675448691864
+      Icon100_20: 7668679343001162583
+      Icon100_21: -976471791295277702
+      Icon100_22: -6473586732859291019
+      Icon100_23: -3037267709158506345
+      Icon100_24: -8513599749831589840
+      Icon100_25: -1275090035060045360
+      Icon100_26: 5802546720360595519
+      Icon100_27: 1697319066566183636
+      Icon100_28: 8577070412205919857
+      Icon100_29: 8500371132931727258
+      Icon100_3: -8408313925502231123
+      Icon100_30: 8684224407988641944
+      Icon100_31: 8786678316324117166
+      Icon100_32: 4123070726829015762
+      Icon100_33: 8946573046810243013
+      Icon100_34: 3175493154331681614
+      Icon100_35: 4006702179819651402
+      Icon100_36: 3307605430952148503
+      Icon100_37: -1755015631815939641
+      Icon100_38: -4059258750739265650
+      Icon100_39: 5730080360690959496
+      Icon100_4: 3277163100531332372
+      Icon100_40: 5297549462913740009
+      Icon100_41: 3029745157562991095
+      Icon100_42: -1662048165695055922
+      Icon100_43: 7422914789853004693
+      Icon100_44: -474655645409602966
+      Icon100_45: -8135451595888851344
+      Icon100_46: 1720500939425610090
+      Icon100_47: -7484239304330062303
+      Icon100_48: 7153129627537784731
+      Icon100_49: 2728047083664047405
+      Icon100_5: -8159315107056960482
+      Icon100_50: -3522164366246347588
+      Icon100_51: -7466372403309396658
+      Icon100_52: 1876707595384506839
+      Icon100_53: -6670876538906915522
+      Icon100_54: 4396219156812881612
+      Icon100_55: -5317611789682075000
+      Icon100_58: -2953262159289386824
+      Icon100_6: 6433556660657639722
+      Icon100_68: -4188591565089159628
+      Icon100_7: 5585376855800802323
+      Icon100_8: 3118420159431537055
+      Icon100_9: -1023499656750169054
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,52 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b11a58205ec3474ca216360e9fa74a8, type: 3}
+  m_Name: Tutorials Shared Data
+  m_EditorClassIdentifier: 
+  m_TableCollectionName: Tutorials
+  m_TableCollectionNameGuidString: ff20a03dcf5b0694fa4b4b6ff648b570
+  m_Entries:
+  - m_Id: 27157483520
+    m_Key: TutorialDialog
+    m_Metadata:
+      m_Items: []
+  - m_Id: 720635318272
+    m_Key: EndTutorialTitle
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1100693786624
+    m_Key: EndTutorialText
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1381338861568
+    m_Key: EndTutorialButton
+    m_Metadata:
+      m_Items: []
+  - m_Id: 269487026098176
+    m_Key: EnergyTutorial
+    m_Metadata:
+      m_Items: []
+  - m_Id: 270069065469952
+    m_Key: EnergyTutorialButton
+    m_Metadata:
+      m_Items: []
+  m_Metadata:
+    m_Items: []
+  m_KeyGenerator:
+    rid: 3667124583445823756
+  references:
+    version: 2
+    RefIds:
+    - rid: 3667124583445823756
+      type: {class: DistributedUIDGenerator, ns: UnityEngine.Localization.Tables, asm: Unity.Localization}
+      data:
+        m_CustomEpoch: 1742292751675

@@ -1,0 +1,4 @@
+Всем канвасам в сцене Render Mode установит Screen Space Camera. Render Camera - Main Camera.
+Всем канвасам установить Scale UiScaleMode - With Screen Size и выставить разрешение по умолчанию.
+На главную камеру повесить скрипт AspectRatio, установив параметр targetAspect, указав нужную резолюцию.
+В главную сцену перести префаб UiCamera.

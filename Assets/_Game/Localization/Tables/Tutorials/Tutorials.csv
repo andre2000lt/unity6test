@@ -1,0 +1,7 @@
+Key,Id,English(en),Russian(ru)
+"TutorialDialog",27157483520,"Click on the block to increase the number. Adjacent blocks with the same values ​​will be merged.","Нажмите на блок для увеличения числа. Соседние блоки  с одинаковыми значениями - объединятся."
+"EndTutorialTitle",720635318272,"Tutorial Completed","Обучение пройдено"
+"EndTutorialText",1100693786624,"Now you are ready to play. Combine 3 or more blocks, earn points and achieve goals!","Теперь вы готовы к игре. Объединяйте 3 и более блоков, зарабатывайте очки и достигайте целей !"
+"EndTutorialButton",1381338861568,"Start game","Начать игру"
+"EnergyTutorial",269487026098176,"Watch your energy. Every action takes energy. Connecting blocks restores it.","Следите за энергией. Каждое действие отнимает энергию.  Соединение блоков - восстанавливет."
+"EnergyTutorialButton",270069065469952,"Close","Закрыть"
