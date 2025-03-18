@@ -5,7 +5,7 @@ public static class InAppData
 {
     public static UnityEvent AdsDisabled_Event = new UnityEvent();
 
-    private const string NO_ADS_KEY = "adsDisabled10";
+    private const string NO_ADS_KEY = "adsDisabled11";
 
 
 
