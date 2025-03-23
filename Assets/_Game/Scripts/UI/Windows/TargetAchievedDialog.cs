@@ -44,8 +44,8 @@ public class TargetAchievedDialog: PopupWindow
 
     private void SetRewardParams()
     {
-        int targetIndex = PlayerDataManager.GetTargetBlockIndex();
-        int reward = PlayerDataManager.GetReward();
+        int targetIndex = PlayerDataManager.GetTargetBlockIndex() - 1;
+        int reward = PlayerDataManager.GetReward(targetIndex);
 
         _targetBlock.SetIndex(targetIndex);
         _rewardValueOutput.text = reward.ToString();

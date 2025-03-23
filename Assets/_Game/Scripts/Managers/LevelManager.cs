@@ -180,6 +180,7 @@ public class LevelManager : MonoBehaviour
 
         if(_isTargetCompleted)
         {
+            PlayerDataManager.IncreaseTargetBlockIndex();
             UI_Manager.ShowTargetAchievedWindow();
             _isTargetCompleted = false;
         }

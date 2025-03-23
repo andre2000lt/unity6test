@@ -58,8 +58,8 @@ public class UI_Manager : MonoBehaviour
 
     public static void GetTargetReward()
     {
-        AdmobAds.Instance.ShowTXT("hhhhhf");
-        int reward = PlayerDataManager.GetReward();
+        int targetIndex = PlayerDataManager.GetTargetBlockIndex() - 1;
+        int reward = PlayerDataManager.GetReward(targetIndex);
 
         var pointsTextPosition = new Vector3(_instance._matrixTransform.position.x,
                                              _instance._matrixTransform.position.y,
@@ -70,7 +70,7 @@ public class UI_Manager : MonoBehaviour
 
         PlayerDataManager.IncreaseScore(reward);
 
-        PlayerDataManager.IncreaseTargetBlockIndex();
+       
 
 
         //_instance._targetAchievedWindow.SetActive(false);

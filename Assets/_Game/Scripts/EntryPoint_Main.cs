@@ -28,9 +28,13 @@ public class EntryPoint_Main : MonoBehaviour
         _uiManager.Init();
 
 
-
-        if (PlayerDataManager.GetScore() == 0)
+        Debug.Log("Lives "+PlayerDataManager.GetLiveCount());
+        if (PlayerDataManager.GetScore() == 0 || PlayerDataManager.GetLiveCount() <= 0)
         {
+            PlayerDataManager.ResetData();
+            PlayerDataManager.ResetBackup();
+            PlayerDataManager.SetTryCount(1);
+
             _levelManager.Init();
             _matrix.Init();
         } 

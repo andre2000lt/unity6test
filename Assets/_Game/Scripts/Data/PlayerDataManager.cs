@@ -134,9 +134,9 @@ public static class PlayerDataManager
     }
 
 
-    public static int GetReward()
+    public static int GetReward(int targetIndex = 0)
     {
-        int rang = GetTargetBlockIndex() - MinTargetBlockIndex;
+        int rang = (targetIndex == 0)? GetTargetBlockIndex() - MinTargetBlockIndex : targetIndex - MinTargetBlockIndex;
         int reward = 0;
         int rangBonus = 50;
 
