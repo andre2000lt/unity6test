@@ -1,4 +1,7 @@
+using System.Collections;
 using UnityEngine;
+using GooglePlayGames;
+using UnityEngine.SocialPlatforms;
 
 
 
@@ -115,12 +118,53 @@ public class LevelManager : MonoBehaviour
 
         var pointsText = Instantiate(_flyingTextPrefab, cell.transform.position, Quaternion.identity);
         pointsText.Init(scoreByBlockCount[blockCount].ToString(), FlyingTextType.Points);
-        
 
         if (cell.Block.Index + 1 == PlayerDataManager.GetTargetBlockIndex())
         {
+
             _isTargetCompleted = true;
-        }    
+        }
+
+
+
+        #region Achievements
+        if (!PlayGamesPlatform.Instance.localUser.authenticated) return;
+
+        int index = cell.Block.Index + 1;
+
+        string targetId = index switch
+        {
+            8  => "CgkI3NCV-5EKEAIQAQ",
+            10 => "CgkI3NCV-5EKEAIQAg",
+            12 => "CgkI3NCV-5EKEAIQAw",
+            15 => "CgkI3NCV-5EKEAIQBA",
+            _  => ""
+        };
+
+        if (!string.IsNullOrEmpty(targetId))
+        {
+            Social.ReportProgress(targetId, 100.0f, (bool success) => {
+                // handle success or failure
+            });
+
+            if (index == 8)
+            {
+                Social.LoadAchievements((IAchievement[] achievements) =>
+                {
+                    IAchievement achievement = System.Array.Find(achievements, a => a.id == "CgkI3NCV-5EKEAIQBQ");
+                    if (achievement != null)
+                    {
+                        if (!achievement.completed)
+                        {
+                            double progress = achievement.percentCompleted + 1.0;
+                            Social.ReportProgress("CgkI3NCV-5EKEAIQBQ", progress, (bool success) => {
+                            });
+                        }
+                    }
+                });
+            }
+        }
+        #endregion
     }
 
 

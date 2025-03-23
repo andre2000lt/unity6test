@@ -1,2 +1,11 @@
 lastUpgrade=20000
 proj.pluginVersion=2.0.0
+proj.AppId=348419090524
+and.BundleId=com.AndreLogicPuzzles.NumBlocks
+proj.classDir=Assets
+proj.ConstantsClassName=GPGSIds
+and.ResourceData=%3c%3fxml+version%3d%221.0%22+encoding%3d%22utf-8%22%3f%3e%0d%0a%3c%21--Google+Play+game+services+IDs.+Save+this+file+as+res%2fvalues%2fgames-ids.xml+in+your+project.--%3e%0d%0a%3cresources%3e%0d%0a++%3c%21--app_id--%3e%0d%0a++%3cstring+name%3d%22app_id%22+translatable%3d%22false%22%3e348419090524%3c%2fstring%3e%0d%0a++%3c%21--package_name--%3e%0d%0a++%3cstring+name%3d%22package_name%22+translatable%3d%22false%22%3ecom.AndreLogicPuzzles.NumBlocks%3c%2fstring%3e%0d%0a++%3c%21--achievement+Your+first+achievement--%3e%0d%0a++%3cstring+name%3d%22achievement_your_first_achievement%22+translatable%3d%22false%22%3eCgkI3NCV-5EKEAIQAQ%3c%2fstring%3e%0d%0a++%3c%21--achievement+Advanced+block+combiner--%3e%0d%0a++%3cstring+name%3d%22achievement_advanced_block_combiner%22+translatable%3d%22false%22%3eCgkI3NCV-5EKEAIQAg%3c%2fstring%3e%0d%0a++%3c%21--achievement+Experienced+block+combiner--%3e%0d%0a++%3cstring+name%3d%22achievement_experienced_block_combiner%22+translatable%3d%22false%22%3eCgkI3NCV-5EKEAIQAw%3c%2fstring%3e%0d%0a++%3c%21--achievement+The+great+block+combiner--%3e%0d%0a++%3cstring+name%3d%22achievement_the_great_block_combiner%22+translatable%3d%22false%22%3eCgkI3NCV-5EKEAIQBA%3c%2fstring%3e%0d%0a++%3c%21--achievement+100+eights--%3e%0d%0a++%3cstring+name%3d%22achievement_100_eights%22+translatable%3d%22false%22%3eCgkI3NCV-5EKEAIQBQ%3c%2fstring%3e%0d%0a++%3c%21--leaderboard+Leaders--%3e%0d%0a++%3cstring+name%3d%22leaderboard_leaders%22+translatable%3d%22false%22%3eCgkI3NCV-5EKEAIQBg%3c%2fstring%3e%0d%0a%3c%2fresources%3e
+and.ClientId=348419090524-tgnbrhalalrqgot9ajion0mtje6fuelc.apps.googleusercontent.com
+android.SetupDone=true
+App.NearbdServiceId=com.AndreLogicPuzzles.NumBlocks
+android.NearbySetupDone=true

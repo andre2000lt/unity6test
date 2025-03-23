@@ -70,6 +70,14 @@ MonoBehaviour:
     m_Localized: 'Score:'
     m_Metadata:
       m_Items: []
+  - m_Id: 1458544456388608
+    m_Localized: Leaderboard
+    m_Metadata:
+      m_Items: []
+  - m_Id: 1458821796352000
+    m_Localized: Best
+    m_Metadata:
+      m_Items: []
   references:
     version: 2
     RefIds: []

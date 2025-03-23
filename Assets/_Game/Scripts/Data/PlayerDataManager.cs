@@ -1,4 +1,5 @@
 using System;
+using GooglePlayGames;
 using UnityEngine;
 using UnityEngine.Events;
 
@@ -18,6 +19,8 @@ public static class PlayerDataManager
         RecordChanged_Event = new UnityEvent();
 
         LoadData();
+
+        UpdateLeaderboard();
     }
 
 
@@ -27,10 +30,11 @@ public static class PlayerDataManager
         {
             Saver.SavesData.PlayerRecord = GetScore();
 
+            UpdateLeaderboard();
+
             RecordChanged_Event?.Invoke();
         }
 
-        // TODO: YandexGame.SaveProgress();
         Saver.SaveProgress(StorageType.TextFile);
     }
 
@@ -84,6 +88,17 @@ public static class PlayerDataManager
         SetTryCount(0);
 
         GameScenesController.LoadScene(GameScene.Main);
+    }
+
+
+    private static void UpdateLeaderboard()
+    {
+        if (PlayGamesPlatform.Instance.localUser.authenticated)
+        {
+            Social.ReportScore(GetScore(), GPGS_Init.LEADERBOARD_ID, (bool success) => {
+                // Handle success or failure
+            });
+        }
     }
 
 
